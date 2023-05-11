@@ -17,35 +17,35 @@
  ![order_code3](https://github.com/cantagit/food-delivery-sample/assets/132859904/bf141784-ec4e-4d10-b99d-90875b7e5712)<br>
 
 
- - 상점 주문리스트
- ![store_orderPlaced](https://github.com/cantagit/food-delivery-sample/assets/132859904/aa108dfd-23cc-4c7d-bc42-e9a509c7a1a7)
+ - 상점 주문리스트<br>
+ ![store_orderPlaced](https://github.com/cantagit/food-delivery-sample/assets/132859904/aa108dfd-23cc-4c7d-bc42-e9a509c7a1a7)<br>
  
- - 상점 조리시작
- ![store_cookStarted](https://github.com/cantagit/food-delivery-sample/assets/132859904/d80b63ec-695a-48ec-a20a-675375198583)
+ - 상점 조리시작<br>
+ ![store_cookStarted](https://github.com/cantagit/food-delivery-sample/assets/132859904/d80b63ec-695a-48ec-a20a-675375198583)<br>
 
- - 상점 조리완료
- ![store_cookFinished](https://github.com/cantagit/food-delivery-sample/assets/132859904/bf56869f-bc5e-4409-801f-a4046d8bcbde)
+ - 상점 조리완료<br>
+ ![store_cookFinished](https://github.com/cantagit/food-delivery-sample/assets/132859904/bf56869f-bc5e-4409-801f-a4046d8bcbde)<br>
  
- - store 소스일부
- ![store_code1](https://github.com/cantagit/food-delivery-sample/assets/132859904/ab7ced00-523e-4a91-b62a-b099c0c8664a)
- ![store_code2](https://github.com/cantagit/food-delivery-sample/assets/132859904/23f591e1-152c-42e1-a7fc-7f2e81bdd83a)
- ![store_code3](https://github.com/cantagit/food-delivery-sample/assets/132859904/4512f32d-411d-4d7a-9a17-fa26a4be92ba)
+ - store 소스일부<br>
+ ![store_code1](https://github.com/cantagit/food-delivery-sample/assets/132859904/ab7ced00-523e-4a91-b62a-b099c0c8664a)<br>
+ ![store_code2](https://github.com/cantagit/food-delivery-sample/assets/132859904/23f591e1-152c-42e1-a7fc-7f2e81bdd83a)<br>
+ ![store_code3](https://github.com/cantagit/food-delivery-sample/assets/132859904/4512f32d-411d-4d7a-9a17-fa26a4be92ba)<br>
 
- - 라이더 배달요청
- ![rider_reqestDelivery](https://github.com/cantagit/food-delivery-sample/assets/132859904/0a307500-5b20-448e-80bf-eb933b64bdc5)
+ - 라이더 배달요청<br>
+ ![rider_reqestDelivery](https://github.com/cantagit/food-delivery-sample/assets/132859904/0a307500-5b20-448e-80bf-eb933b64bdc5)<br>
 
- - 라이더 배달픽업
- ![rider_deliveryPicked](https://github.com/cantagit/food-delivery-sample/assets/132859904/a465026b-4a48-4157-af2a-efe87dcf3467)
+ - 라이더 배달픽업<br>
+ ![rider_deliveryPicked](https://github.com/cantagit/food-delivery-sample/assets/132859904/a465026b-4a48-4157-af2a-efe87dcf3467)<br>
 
- - 라이더 배달완료
- ![rider_deliveryFinished](https://github.com/cantagit/food-delivery-sample/assets/132859904/a80cba5e-4124-41a1-9aad-1720553d551f)
+ - 라이더 배달완료<br>
+ ![rider_deliveryFinished](https://github.com/cantagit/food-delivery-sample/assets/132859904/a80cba5e-4124-41a1-9aad-1720553d551f)<br>
 
- - rider 소스일부
- ![rider_code1](https://github.com/cantagit/food-delivery-sample/assets/132859904/080b2079-3a33-48c5-8f56-581909ee3409)
+ - rider 소스일부<br>
+ ![rider_code1](https://github.com/cantagit/food-delivery-sample/assets/132859904/080b2079-3a33-48c5-8f56-581909ee3409)<br>
 
 
- - Kafka 이벤트별 수신이력
- ![kafka_Consumer](https://github.com/cantagit/food-delivery-sample/assets/132859904/abb86fd5-959c-4bb9-9a81-81136d4f5c8b)
+ - Kafka 이벤트별 수신이력<br>
+ ![kafka_Consumer](https://github.com/cantagit/food-delivery-sample/assets/132859904/abb86fd5-959c-4bb9-9a81-81136d4f5c8b)<br>
 
 
 > CQRS
