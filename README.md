@@ -16,6 +16,7 @@
  ![order_code2](https://github.com/cantagit/food-delivery-sample/assets/132859904/69820cc6-0b3f-4300-86af-70c67425f418)
  ![order_code3](https://github.com/cantagit/food-delivery-sample/assets/132859904/bf141784-ec4e-4d10-b99d-90875b7e5712)
 
+
  - 상점 주문리스트
  ![store_orderPlaced](https://github.com/cantagit/food-delivery-sample/assets/132859904/aa108dfd-23cc-4c7d-bc42-e9a509c7a1a7)
  
@@ -44,7 +45,7 @@
 
 
  - Kafka 이벤트별 수신이력
-![kafka_Consumer](https://github.com/cantagit/food-delivery-sample/assets/132859904/abb86fd5-959c-4bb9-9a81-81136d4f5c8b)
+ ![kafka_Consumer](https://github.com/cantagit/food-delivery-sample/assets/132859904/abb86fd5-959c-4bb9-9a81-81136d4f5c8b)
 
 
 > CQRS
