@@ -8,13 +8,13 @@
 
 > Saga
  
- - 고객이 메뉴를 주문함
- ![front_orderPlaced](https://github.com/cantagit/food-delivery-sample/assets/132859904/53ee7a26-0d3e-4bb4-93cc-d7ff5ff9bc00)
+ - 고객이 메뉴를 주문함<br>
+ ![front_orderPlaced](https://github.com/cantagit/food-delivery-sample/assets/132859904/53ee7a26-0d3e-4bb4-93cc-d7ff5ff9bc00)<br>
  
-- front 소스일부
- ![order_code1](https://github.com/cantagit/food-delivery-sample/assets/132859904/de09f19d-e303-41eb-88bc-53b7f6a2fdef)
- ![order_code2](https://github.com/cantagit/food-delivery-sample/assets/132859904/69820cc6-0b3f-4300-86af-70c67425f418)
- ![order_code3](https://github.com/cantagit/food-delivery-sample/assets/132859904/bf141784-ec4e-4d10-b99d-90875b7e5712)
+ - front 소스일부<br>
+ ![order_code1](https://github.com/cantagit/food-delivery-sample/assets/132859904/de09f19d-e303-41eb-88bc-53b7f6a2fdef)<br>
+ ![order_code2](https://github.com/cantagit/food-delivery-sample/assets/132859904/69820cc6-0b3f-4300-86af-70c67425f418)<br>
+ ![order_code3](https://github.com/cantagit/food-delivery-sample/assets/132859904/bf141784-ec4e-4d10-b99d-90875b7e5712)<br>
 
 
  - 상점 주문리스트
