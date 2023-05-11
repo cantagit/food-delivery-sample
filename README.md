@@ -3,7 +3,8 @@
 
 > EventStorming
 
-![food_delivery_sample](https://github.com/cantagit/food-delivery-sample/assets/132859904/b2671987-c0f0-48fa-9d78-820deced7c10)
+![food_delivery_sample](https://github.com/cantagit/food-delivery-sample/assets/132859904/2a0e4741-0575-4a0d-bbd0-98bcac5ac3ef)
+
 
 
 > Saga
